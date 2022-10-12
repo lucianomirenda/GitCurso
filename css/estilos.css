@@ -1,5 +1,5 @@
 body {
-    color: aquamarine   ;
+    color: rgb(15, 107, 76)   ;
     background-color: wheat;
     text-align: center;
     font-family: 'Arial';
@@ -7,9 +7,17 @@ body {
 
 .negros {
     width: 1000px;
-    height: 500px;
+    height: 300px;
     color: black;
     flex: auto;
     flex-direction: column;
     justify-content: space-between;
+}
+
+#epic-fo{
+    font-size: 40px;
+}
+
+h1 {
+    font-size: 100px;
 }
