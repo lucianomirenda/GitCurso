@@ -9,6 +9,8 @@ body {
     width: 1000px;
     height: 500px;
     color: black;
+    font-size: 80px;
+    background-color: greenyellow;
     flex: auto;
     flex-direction: column;
     justify-content: space-between;
