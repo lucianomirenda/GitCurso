@@ -1,6 +1,15 @@
 body {
     color: aquamarine   ;
-    background-color: black;
+    background-color: wheat;
     text-align: center;
     font-family: 'Arial';
+}
+
+.negros {
+    width: 1000px;
+    height: 500px;
+    color: black;
+    flex: auto;
+    flex-direction: column;
+    justify-content: space-between;
 }
