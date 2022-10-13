@@ -20,3 +20,12 @@ body {
 h1 {
     font-size: 100px;
 }
+
+#p1 {
+    background-color: aquamarine;
+}
+
+#p2{
+    background: rebeccapurple;
+    color: white;
+}
