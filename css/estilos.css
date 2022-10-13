@@ -1,14 +1,15 @@
 body {
     color: #333;
-    background-color: rgb(128, 88, 43);
+    background-color: rgb(230, 220, 209);
     text-align: center;
     font-family: 'Arial';
 }
 
 .negros {
-    width: 1000px;
-    height: 300px;
+    width: 100px;
+    height: 100px;
     color: black;
+    text-align: left;
 
 }
 
